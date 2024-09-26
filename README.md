@@ -16,6 +16,13 @@ Welcome to my portfolio! I'm a third-year Computer Science Engineering student w
 - Cisco Packet Tracer, Networking Concepts
 - Cloudera (Hadoop, Spark)
 
+## 📁 Projects
+- [Future Harvests: Predicting Crop Yields](https://www.jetir.org/view?paper=JETIR2405134)
+  "Analyzed performance metrics of multiple algorithms" to determine the best fit for a specific geographical area.
+  "Successfully identified the most accurate predictive model", enhancing the precision of agricultural yield forecasts.
+- Big Data Analytics in Sports
+  Discusses the evolution and importance of big data analytics in modern sports.
+  Analyzed the impact of big data on performance metrics, player health, game strategies, and fan engagement.
 ## 🏅 Certifications
 - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/RASHAMVIRKAURGRANG-2902/839EEBC9494FA00?sharingId=A084A1CBAB97735B)
 - [Generative AI Certified Professional](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5123711&trackId=OCI2024GAIOCP&key=b787f2ed01c72a9a6ce8211215a3cb161558f85c)
