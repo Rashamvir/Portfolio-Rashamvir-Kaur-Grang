@@ -3,7 +3,7 @@
 Welcome to my portfolio! I'm a third-year Computer Science Engineering student with a specialization in Big Data Analytics, passionate about data-driven decision-making and building scalable solutions.
 
 ## 📄 Resume
-[Download My Resume](link-to-your-resume)  
+[Download My Resume](https://drive.google.com/file/d/12sDRlReRq9f6L60-B29qr2UV1vQsbGnd/view?usp=sharing)  
 
 ## 🛠️ Skills
 - Big Data Analytics
