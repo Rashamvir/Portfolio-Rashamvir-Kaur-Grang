@@ -3,7 +3,7 @@
 Welcome to my portfolio! I'm a third-year Computer Science Engineering student with a specialization in Big Data Analytics, passionate about data-driven decision-making and building scalable solutions.
 
 ## 📄 Resume
-[Download My Resume](https://drive.google.com/file/d/12sDRlReRq9f6L60-B29qr2UV1vQsbGnd/view?usp=sharing)  
+[Rashamvir Kaur Grang](https://drive.google.com/file/d/12sDRlReRq9f6L60-B29qr2UV1vQsbGnd/view?usp=sharing)  
 
 ## 🎯 Career Objective
 Aspiring Data Analyst with a strong foundation in Big Data Analytics and data visualization. Eager to apply analytical skills and problem-solving abilities to deliver data-driven insights and contribute to organizational growth.
